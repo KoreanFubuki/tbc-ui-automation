@@ -1,0 +1,7 @@
+ge\tbc\testautomation\pages\HomePage.class
+ge\tbc\testautomation\pages\LoanCalculatorPage.class
+ge\tbc\testautomation\config\TestConfig.class
+ge\tbc\testautomation\constants\Resolution.class
+ge\tbc\testautomation\config\DriverFactory.class
+ge\tbc\testautomation\pages\BasePage.class
+ge\tbc\testautomation\constants\UrlConstants.class
